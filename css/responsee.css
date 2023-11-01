@@ -1,8 +1,0 @@
-
-
-@media screen and (max-width:480px) {
-  .size-960,.size-1140,.size-1280,.size-1520 {max-width:480px;}
-  .aside-nav li a {text-align: center;}
-  .minimize-on-small .aside-nav-text {
-    background:DDS.jpg;
-   
